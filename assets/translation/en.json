@@ -1,0 +1,22 @@
+{
+    "login": "Login",
+    "register": "Registration",
+    "fullName": "Full Name",
+    "city": "City",
+    "phoneNumber": "Phone Number",
+    "user": "User Profile",
+    "story": "Story",
+    "email": "Email",
+    "password": "Password",
+    "qr": "Enter Data fot Qr",
+    "qrgen": "Generate QR Code",
+    "qrdone": "Your Qr Code",
+    "close": "Close",
+    "page": "User Page",
+    "Stories": "Stories",
+    "Animation": "Animation",
+    "Qr_Scanner": "Qr Scanner",
+    "LogOut": "LogOut",
+    "Menu": "Menu"
+
+}
